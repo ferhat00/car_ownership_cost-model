@@ -1,12 +1,12 @@
 # car_ownership_cost-model
-Function for calculating the ownership of a vehicle based on your inputs and assumptions. Example of code:
+*Function for calculating the ownership of a vehicle based on your inputs and assumptions. Example of code:
 
 
 Using the function "cost"
-cost("BMW","3-series",50000,5000,6,1.09,0.97,12000,40,1.22,400,40,130,12000,500,5,200,150)
+cost("BMW","3-series",50000,5000,6,1.09,0.97,12000,40,1.22,400,40,130,12000,500,5,200,150)*
 
 
-Means the following inputs:
+**Means the following inputs:**
 
 
 Make:  BMW
@@ -46,7 +46,7 @@ Other maintenance costs (/year) = 200
 Other costs like parking fines and traffuc offences (/year) = 150
 
 
-The result is the following calculations:
+**The result is the following calculations:**
 
 
 Monthly Payments = 681.25
