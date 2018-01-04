@@ -10,6 +10,7 @@ Means the following inputs:
 
 
 Make:  BMW
+
 Model:  3-series
 Purchase Cost =  50000
 Deposit =  5000
