@@ -7,6 +7,8 @@ cost("BMW","3-series",50000,5000,6,1.09,0.97,12000,40,1.22,400,40,130,12000,500,
 
 
 Means the following inputs:
+
+
 Make:  BMW
 Model:  3-series
 Purchase Cost =  50000
@@ -28,6 +30,8 @@ Other costs like parking fines and traffuc offences (/year) = 150
 
 
 The result is the following calculations:
+
+
 Monthly Payments = 681.25
 Total lifetime service cost = 2500.0
 Total Value of Car at the end = 42936.701284999996
